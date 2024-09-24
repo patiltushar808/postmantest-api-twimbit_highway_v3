@@ -1,4 +1,4 @@
-name: Automated API test case using Postman CLI
+name: Automated API test case using Postman cli
 
 on: push
 
